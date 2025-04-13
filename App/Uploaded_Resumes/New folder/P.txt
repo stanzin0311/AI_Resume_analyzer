@@ -1,0 +1,19 @@
+Job Title: Machine Learning Research Intern
+Location: IIT Patna / Remote
+Employment Type: Internship
+
+Job Summary:
+We are seeking a highly motivated and innovative Machine Learning Research Intern to work on cutting-edge cybersecurity research. The role involves developing and implementing machine learning models to detect and classify cyber threats by analyzing network traffic data. The ideal candidate will have a strong foundation in machine learning, data analysis, and problem-solving, with a passion for addressing real-world security challenges.
+
+Key Responsibilities:
+Analyze network traffic data to detect abnormal patterns indicating potential cyber attacks.
+
+Define problem statements to guide the research approach, ensuring focused and effective solutions.
+
+Implement and train machine learning models, particularly using the Random Forest classifier, on datasets such as NSL-KDD.
+
+Achieve performance optimization, demonstrated by a 20% improvement in detecting cyber attacks, enhancing model reliability.
+
+Conduct in-depth root cause analysis to improve cybersecurity measures.
+
+Collaborate with research teams to document findings, present outcomes, and address challenges in cybersecurity systems.
